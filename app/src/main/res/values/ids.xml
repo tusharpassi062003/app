@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_c" type="id" />
+    <item name="button_open_bracket" type="id" />
+    <item name="button_di" type="id" />
+    <item name="button_close" type="id" />
+    <item name="button_Plus" type="id" />
+    <item name="button_7" type="id" />
+    <item name="button_Dot" type="id" />
+    <item name="button_8" type="id" />
+    <item name="button_9" type="id" />
+    <item name="button_AC" type="id" />
+    <item name="button_Minus" type="id" />
+    <item name="button_Equals" type="id" />
+    <item name="button_divide" type="id" />
+    <item name="button_Multiply" type="id" />
+</resources>
